@@ -28,8 +28,6 @@ Workspace is a cross platform development environment.
 
 ## Before we start
 
-<br>
-
 ### Step 1: Prepare PowerShell
 
 If you got Windows PC, follow these steps:
@@ -42,13 +40,9 @@ If you got Windows PC, follow these steps:
 
 This will enable scripts execution via PowerShell.
 
-<br>
-
 ### Step 2: VirtualBox
 
 Install VirtualBox from here: https://www.virtualbox.org/wiki/Downloads
-
-<br>
 
 ### Step 3: PuTTY
 

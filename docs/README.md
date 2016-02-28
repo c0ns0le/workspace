@@ -3,6 +3,7 @@
 ## Contents
 
 - [Introduction](#introduction)
+
 - [Before we start](#before-we-start)
   - [Step 1: Prepare PowerShell](#step-1-prepare-powershell)
   - [Step 2: VirtualBox](#step-2-virtualbox)
@@ -10,8 +11,11 @@
 
 
 - [Git & GitHub Desktop](#git--github-desktop)
+
 - [Setup](#setup)
+
 - [Workflow](#workflow)
+
 - [Uninstall](#uninstall)
 
 ----

@@ -4,17 +4,17 @@ This repository is a start-from-scratch base which will help you to setup everyt
 
 # [Contents](#contents)
 
-- [Before we start](#before-we-start)
-- [Step 1: Git & GitHub Desktop](#step-1)
-- [Step 2: Setup](#step-2)
+- [Before we start](#)
+- [Step 1: Git & GitHub Desktop](#)
+- [Step 2: Setup](#)
 
 ----
 
-## <a name="before-we-start">Before we start</a>
+## Before we start
 
 <br>
 
-### [Step 1: Prepare PowerShell](#psh)
+### Step 1: Prepare PowerShell
 
 If you got Windows PC, follow these steps:
 
@@ -28,13 +28,13 @@ This will enable scripts execution via PowerShell.
 
 <br>
 
-### [Step 2: VirtualBox](#vbox)
+### Step 2: VirtualBox
 
 Install VirtualBox from here: https://www.virtualbox.org/wiki/Downloads
 
 <br>
 
-### [Step 3: PuTTY](#putty)
+### Step 3: PuTTY
 
 If you got Windows PC, then to be able to connect to VM via ssh, you need a PuTTY.
 
@@ -42,7 +42,7 @@ Download PuTTY: http://the.earth.li/~sgtatham/putty/latest/x86/putty.exe
 
 ---
 
-## <a name="step-1">Step 1: Git & GitHub Desktop</a>
+## Step 1: Git & GitHub Desktop
 
 Download [GitHub Desktop](https://github-windows.s3.amazonaws.com/GitHubSetup.exe) client and install it.
 
@@ -52,7 +52,7 @@ Setup GitHub Desktop:
 
 ---
 
-## <a name="step-2">Step 2: Setup</a>
+## Step 2: Setup
 
 ~~Download this repository and unpack the archive.~~ Clone this repository.
 
@@ -70,6 +70,6 @@ If the script is not executed, follow these steps:
 
 ---
 
-## <a name="step-3">Step 3: Workflow</a>
+## Step 3: Workflow
 
 > In progress...

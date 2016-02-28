@@ -6,11 +6,11 @@ This is work in progress on the cross platform development environment.
 
 Basically this is a VM, which includes following software:
 
-- :construction: NodeJS and NPM
-- :construction: Python
-- :construction: Bash / SH
+- NodeJS and NPM
+- Python
+- Bash / SH
 - :construction: Apache HTTP
-- :construction: PHP
+- PHP
 - :construction: Mysql
 - :construction: MongoDB
 - and many more...
